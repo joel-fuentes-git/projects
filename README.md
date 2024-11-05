@@ -1,2 +1,2 @@
 # projects
-HTML Files for Example Projects
+Jupyter Files for Example Projects
